@@ -1,6 +1,6 @@
 # Covid Tracker
 
-Ce projet consiste à localiser de manière subjective le périmétre de l'épidémie dans une région donnée.
+Ce projet vise à subjectivement délimiter la zone affectée par l'épidémie dans votre emplacement actuel.
 
 ![356993334_994373591701118_146422130079400289_n](https://github.com/RACHADDOUlFIKAR/Covid_Tracker/assets/97551741/08f0a809-a60e-4307-a830-0173cbb49d12)
 
