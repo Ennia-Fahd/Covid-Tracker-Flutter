@@ -1,6 +1,7 @@
 # Covid Tracker
 
-L'objectif de ce projet est de me familiariser avec le développement Flutter et de créer une application qui permet de définir une zone autour de vous où les personnes ont été affectées par l'épidémie (Ceci est juste un exemple).
+The goal of this project is to meet Flutter development and create an application that allows you to define an area around you where people have been affected by the epidemic (This is just an example).
+
 
 ![356993334_994373591701118_146422130079400289_n](https://github.com/RACHADDOUlFIKAR/Covid_Tracker/assets/97551741/08f0a809-a60e-4307-a830-0173cbb49d12)
 
